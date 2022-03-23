@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(235, 234, 231);
+}
+.fa{
+    color: #2B2B99;
+}
+.box-part{
+    background-color: whitesmoke;
+    padding: 60px;
+    margin: 10px 0;
+}
+span{
+    font-size: 13px;
+}
+a{
+    border-bottom: 1px solid rgb(54, 54, 223);
+}
+.box{
+    padding: 60px 0;
+}
+.text{
+    margin: 10px 0;
+}
